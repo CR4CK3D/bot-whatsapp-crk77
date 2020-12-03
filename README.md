@@ -20,6 +20,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > cd bot-whatsapp-crk77
 > ls
 > unzip Boters.zip
+> ls
+> cd Boters
 > bash install.sh
 > npm i node-tesseract-ocr
 > npm i
